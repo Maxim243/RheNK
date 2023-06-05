@@ -1,1 +1,8 @@
 1 commit
+<<<<<<< HEAD
+2 commit 
+3 commit 
+
+=======
+2 commit 
+>>>>>>> 589350e (2 commit)
